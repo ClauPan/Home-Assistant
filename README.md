@@ -35,13 +35,13 @@
 
 ## Testing
 
-###### Daily
+### Daily
 
 <img src="Pictures/Daily.png">
 
 ###### Weekly
 
-<img src="">
+<img src="Pictures/Weekly.png">
 
 ###### Monthly
 
