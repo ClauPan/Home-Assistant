@@ -1,9 +1,9 @@
-## HOME ASSISTANT
+# HOME ASSISTANT
 
 
 
 
-# Instalation
+## Instalation
 
 ⦁	Extract the archive inside a folder.
 
@@ -18,7 +18,7 @@
 ⦁	Run main.py 
 
 
-# Setup
+## Setup
 
 ⦁	To use the application, first, simulate a number of days using the command “run -*no_of_days*”.
 
@@ -33,7 +33,22 @@
 ⦁	Use the “Voice” button to send commands using the microphone
 
 
-# Testing
+## Testing
 
+###### Daily
+
+<img src="Pictures/Daily.png">
+
+###### Weekly
+
+<img src="">
+
+###### Monthly
+
+<img src="">
+
+###### Yearly
+
+<img src="">
 
 
