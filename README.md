@@ -39,16 +39,16 @@
 
 <img src="Pictures/Daily.png">
 
-###### Weekly
+### Weekly
 
 <img src="Pictures/Weekly.png">
 
-###### Monthly
+### Monthly
 
-<img src="">
+<img src="Pictures/Monthly.png">
 
-###### Yearly
+### Yearly
 
-<img src="">
+<img src="Pictures/yearly.png">
 
 
