@@ -1,0 +1,73 @@
+{
+	"fever": {
+		"factors": {
+			"temperature": 1
+		}
+	},
+	"hypothermia": {
+		"factors": {
+			"temperature": -1
+		}
+	},
+	"high_blood_pressure": {
+		"factors": {
+			"blood_pressure": 1
+		}
+	},
+	"low_blood_pressure": {
+		"factors": {
+			"blood_pressure": -1
+		}
+	},
+	"high_heart_rate": {
+		"factors": {
+			"heart_rate": 1
+		}
+	},
+	"low_heart_rate": {
+		"factors": {
+			"heart_rate": -1
+		}
+	},
+	"high_blood_h2o": {
+		"factors": {
+			"blood_h2o": 1
+		}
+	},
+	"low_blood_h2o": {
+		"factors": {
+			"blood_h2o": -1
+		}
+	},
+	"sleep deprivation": {
+		"factors": {
+			"energy_level": -1
+		}
+	},
+	"high_room_temperature": {
+		"factors": {
+			"room_temperature": 1
+		}
+	},
+	"low_room_temperature": {
+		"factors": {
+			"room_temperature": -1
+		}
+	},
+	"high_humidity": {
+		"factors": {
+			"humidity": 1
+		}
+	},
+	"low_humidity": {
+		"factors": {
+			"humidity": -1
+		}
+	},
+	"high_level_co": {
+		"factors": {
+			"level_co": 1
+		}
+	}
+}
+

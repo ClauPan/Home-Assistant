@@ -1,0 +1,12 @@
+{
+	"temperature": [35.5, 37],
+	"heart_rate": [80, 100],
+	"blood_pressure": [110, 125],
+	"blood_h2o": [95, 100],
+	"energy_level": [55, 999],
+
+	"room_temperature": [16, 30],
+	"humidity": [30, 60],
+	"level_co": [-999, 55]
+}
+

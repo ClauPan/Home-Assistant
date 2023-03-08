@@ -1,0 +1,67 @@
+{
+	"cook": {
+		"name": "cook",
+		"room": ["k"],
+		"time": [40, 60],
+		"effects": [["eng",-10,"o"]],
+		"use": "fire",
+		"events": {
+			"forget_stove_gas": {
+				"name": "Stove",
+				"chance": 5,
+				"set": "gas"
+			},
+			"forget_stove_fire": {
+				"name": "Stove",
+				"chance": 5,
+				"set": "fire"
+			}
+		}
+	},
+	"shower": {
+		"name": "shower",
+		"room": ["b"],
+		"time": [20, 40],
+		"use": "on",
+		"effects": [["eng", -10, "o"], ["bpr", 0.5, "o"]],
+		"events": {
+			"forget_shower_on": {
+				"name": "Shower",
+				"chance": 5,
+				"set": "on"
+			}
+		}
+	},
+	"play_games": {
+		"name": "play_games",
+		"room": ["l"],
+		"time": [10, 120],
+		"use": "",
+		"effects": [["eng", -0.08, "t"], ["hr", 10, "o"]],
+		"events": {}
+	},
+	"smoke": {
+		"name": "smoke",
+		"room": ["k", "l"],
+		"time": [6, 10],
+		"use": "",
+		"effects": [["bpr", 5, "o"]],
+		"events": {}
+	},
+	"exercise": {
+		"name": "exercise",
+		"room": ["l"],
+		"time": [30, 60],
+		"use": "",
+		"effects": [["eng", -0.3, "t"], ["hr", 10, "o"], ["temp", 0.5, "o"]],
+		"events": {}
+	},
+	"sleep": {
+		"name": "sleep",
+		"room": ["B", "l"],
+		"time": [120, 480],
+		"use": "",
+		"effects": [["eng", 0.125, "t"]],
+		"events": {}
+	}
+}
