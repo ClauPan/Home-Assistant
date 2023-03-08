@@ -1,6 +1,9 @@
 # HOME ASSISTANT
 
+A simualtion of a Smart Home, where the AI learns the habits of the people living in the house and keeps track of all the important living parameters.
+If one of the parameters goes out of it's normal range, the inhabitants will be notified according to the severity of the change. 
 
+The system stores daily reports inside a "logs" folder. based on that it can also generate weekly, monthly and yearly reports.
 
 
 ## Instalation
